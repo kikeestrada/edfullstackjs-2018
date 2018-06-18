@@ -14,3 +14,17 @@
     * Node Version Manager
       * [NVM para Linux / Mac](https://github.com/creationix/nvm)
       * [NVM para Windows](https://github.com/coreybutler/nvm-windows)
+
+## Ciclo de vida de un proceso
+
+1. Pila de Procesos (Requests & Response)
+1. Pila de Subprocesos (Async Requests)
+1. Cola de Callbacks (Async Responses)
+
+![Event Loop](../assets/event-loop.png)
+
+## Blocking vs Non Blocking I/O
+
+Comensales VS Meseros
+
+![Comensales VS Meseros](../assets/comensales.jpg)
