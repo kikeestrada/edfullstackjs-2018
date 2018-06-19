@@ -20,7 +20,22 @@
   * Ciclo de vida de un proceso
   * Blocking vs Non Blocking I/O
 
-#### Clase 2:
+#### Clase 2
+
+* Asincronía
+  * Callbacks
+  * Promesas
+  * Async/Await
+* NPM
+  * Paquetes en Node
+  * Tipos de Paquetes
+  * Proyectos en Node
+  * El archivo package.json
+  * Tipos de instalaciones
+* Paquetes y Módulos
+  * Requerir paquetes y archivos
+  * Creación de módulos
+  * Scripts NPM
 
 #### Clase 3:
 
