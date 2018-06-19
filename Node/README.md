@@ -45,14 +45,14 @@ Mecanismos asíncronos en JavaScript:
 
 ## NPM
 
-***Node Package Manager***
+***[Node Package Manager](https://www.npmjs.com/)***
 
 Es el gestor de paquetes de Node.js... y de todo JavaScript.
 
 ### Paquetes en Node:
 
 * Nativos ( _[API Core](https://nodejs.org/api/)_  )
-* Externos ( _[NPM](https://www.npmjs.com/)_ )
+* Externos ( _[NPM Docs](https://docs.npmjs.com/)_ )
 
 ### Proyectos en Node:
 
