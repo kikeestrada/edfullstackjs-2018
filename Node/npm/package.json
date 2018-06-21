@@ -1,0 +1,17 @@
+{
+  "name": "aprendiendo-npm",
+  "version": "1.0.0",
+  "description": "Con esta carpeta aprendemos el uso de NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan MirCha <jonmircha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
