@@ -39,8 +39,6 @@
 
 #### Clase 3:
 
-### Clase 3
-
 * Node y la linea de comandos
   * Lectura y escritura de archivos
   * Recibir parámetros por línea de comandos
