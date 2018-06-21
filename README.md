@@ -20,7 +20,7 @@
   * Ciclo de vida de un proceso
   * Blocking vs Non Blocking I/O
 
-#### Clase 2
+#### Clase 2:
 
 * Asincronía
   * Callbacks
