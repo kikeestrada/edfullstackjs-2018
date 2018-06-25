@@ -43,13 +43,18 @@
   * Lectura y escritura de archivos
   * Recibir parámetros por línea de comandos
   * Interactuando con la CLI
+
+#### Clase 4:
+
 * Node y APIs Externas
   * Peticiones HTTP desde la CLI
   * Peticiones Asíncronas desde la CLI
   * Consumo de APIs y Servicios desde la CLI
-
-#### Clase 4:
-
+* Node y la Web
+  * Módulo HTTP
+  * Peticiones y métodos HTTP
+  * Servidor Web
+  * Cliente HTTP
 
 ### 2) Express.js y Socket.IO
 
