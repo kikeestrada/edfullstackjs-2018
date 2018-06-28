@@ -39,10 +39,10 @@
 
 #### Clase 3:
 
-* Node y la linea de comandos
-  * Lectura y escritura de archivos
-  * Recibir parámetros por línea de comandos
+* Node y la línea de comandos
   * Interactuando con la CLI
+  * Recibir parámetros por línea de comandos
+  * Lectura y escritura de archivos
 
 #### Clase 4:
 
